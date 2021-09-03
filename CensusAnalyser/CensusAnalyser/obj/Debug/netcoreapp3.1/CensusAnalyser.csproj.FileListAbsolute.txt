@@ -1,0 +1,13 @@
+C:\Users\ADVANCED\Desktop\Day 29 Assignments\CensusAnalyser\CensusAnalyser\bin\Debug\netcoreapp3.1\CensusAnalyser.exe
+C:\Users\ADVANCED\Desktop\Day 29 Assignments\CensusAnalyser\CensusAnalyser\bin\Debug\netcoreapp3.1\CensusAnalyser.deps.json
+C:\Users\ADVANCED\Desktop\Day 29 Assignments\CensusAnalyser\CensusAnalyser\bin\Debug\netcoreapp3.1\CensusAnalyser.runtimeconfig.json
+C:\Users\ADVANCED\Desktop\Day 29 Assignments\CensusAnalyser\CensusAnalyser\bin\Debug\netcoreapp3.1\CensusAnalyser.runtimeconfig.dev.json
+C:\Users\ADVANCED\Desktop\Day 29 Assignments\CensusAnalyser\CensusAnalyser\bin\Debug\netcoreapp3.1\CensusAnalyser.dll
+C:\Users\ADVANCED\Desktop\Day 29 Assignments\CensusAnalyser\CensusAnalyser\bin\Debug\netcoreapp3.1\CensusAnalyser.pdb
+C:\Users\ADVANCED\Desktop\Day 29 Assignments\CensusAnalyser\CensusAnalyser\obj\Debug\netcoreapp3.1\CensusAnalyser.csproj.AssemblyReference.cache
+C:\Users\ADVANCED\Desktop\Day 29 Assignments\CensusAnalyser\CensusAnalyser\obj\Debug\netcoreapp3.1\CensusAnalyser.AssemblyInfoInputs.cache
+C:\Users\ADVANCED\Desktop\Day 29 Assignments\CensusAnalyser\CensusAnalyser\obj\Debug\netcoreapp3.1\CensusAnalyser.AssemblyInfo.cs
+C:\Users\ADVANCED\Desktop\Day 29 Assignments\CensusAnalyser\CensusAnalyser\obj\Debug\netcoreapp3.1\CensusAnalyser.csproj.CoreCompileInputs.cache
+C:\Users\ADVANCED\Desktop\Day 29 Assignments\CensusAnalyser\CensusAnalyser\obj\Debug\netcoreapp3.1\CensusAnalyser.dll
+C:\Users\ADVANCED\Desktop\Day 29 Assignments\CensusAnalyser\CensusAnalyser\obj\Debug\netcoreapp3.1\CensusAnalyser.pdb
+C:\Users\ADVANCED\Desktop\Day 29 Assignments\CensusAnalyser\CensusAnalyser\obj\Debug\netcoreapp3.1\CensusAnalyser.genruntimeconfig.cache
